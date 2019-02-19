@@ -4,7 +4,9 @@
 
 download the project and enter alfserver directory
 
-cmake3 . -DBOOST_INCLUDEDIR=/opt/o2-dependencies/include -DBOOST_LIBRARYDIR=/opt/o2-dependencies/lib
+aliswmod enter ReadoutCard
+
+cmake3 .
 
 make all
 
